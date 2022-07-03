@@ -6,11 +6,11 @@ This Dataset is one of the trend and growing supermarket in major city's, It is 
 
 #  Libraries used
 
-Numpy
+  Numpy
 
-Pandas #for reading files, and data processing
+  Pandas #for reading files, and data processing
 
-Seaborn & Matplotlib #for data plotting
+  Seaborn & Matplotlib #for data plotting
 
 # Purpose
 
